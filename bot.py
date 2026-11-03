@@ -7,7 +7,7 @@ from aiogram.types import ChatPermissions, BotCommand
 from aiogram.filters import Command
 
 # ============ ТВОИ ДАННЫЕ ============
-TOKEN = "8623221406:AAF42kKkHeHWABjs0eUBAdhs1rlZ6EBQgCg"
+TOKEN = "sositi"
 OWNER_ID = 7262038816
 WARN_LIMIT = 3
 
